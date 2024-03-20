@@ -56,7 +56,7 @@ Highly skilled and experienced Application Security professional with over 3 yea
 
 **Training:** National Thermal Power Corporation Limited (NTPC), Unchahar, India (06/2019 - 07/2019)
 
-- Completed training in Electrical Maintenance and Control & Instrumentation Department**Certification:** Reverse Engineering & Malware Analysis (Certified by Google)
+**Certification:** Reverse Engineering & Malware Analysis (Certified by Google)
 
 ---
 
