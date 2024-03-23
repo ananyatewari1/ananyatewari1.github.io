@@ -4,11 +4,11 @@
 
 Highly skilled and experienced Application Security professional with over 3 years of hands-on experience in Reverse Engineering, comprehensive Static & Dynamic (Mobile & Web) application security testing, executing Vulnerability Assessments, conducting Penetration Testing, fortifying Web Service (APIs) Security, engaging in Source Code Review, endpoint security, log management, vulnerability scanning, and IDS/IPS management. Seeking a challenging role that leverages my expertise in computer forensics, network security controls, and application layer vulnerabilities in a cloud environment.
 
-**Location:** Uttar Pradesh, India
+**📍Location:** Uttar Pradesh, India
 
-**Email:** [ananyatewari91@gmail.com](mailto:ananyatewari91@gmail.com)
+**📧Email:** [ananyatewari91@gmail.com](mailto:ananyatewari91@gmail.com)
 
-**LinkedIn:** [ananya-tewari](https://www.notion.so/www.linkedin.com/in/ananya-tewari)
+**🌐LinkedIn:** [ananya-tewari](https://www.notion.so/www.linkedin.com/in/ananya-tewari)
 
 ---
 
