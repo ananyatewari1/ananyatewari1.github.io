@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image URL Generator</title>
+</head>
+<body>
+
+<h2>Image URL Generator</h2>
+
+<form id="imageForm">
+  <label for="imageName">Image Name:</label>
+  <input type="text" id="imageName" name="imageName" required>
+  <button type="submit">Generate URL</button>
+</form>
+
+<p id="imageURL"></p>
+
+<script>
+document.getElementById("imageForm").addEventListener("submit", function(event) {
+  event.preventDefault();
+  var imageName = document.getElementById("imageName").value.trim();
+  if (imageName) {
+    var imageURL = "images\\" + b612_tempphoto_edit_share_20240212_122954_678 + ".jpg"; // Modify this line based on your image path and extension
+    document.getElementById("imageURL").textContent = "Image URL: " + imageURL;
+  } else {
+    alert("Please enter an image name.");
+  }
+});
+</script>
+
+</body>
+</html>
